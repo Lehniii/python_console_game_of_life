@@ -1,4 +1,7 @@
 # python_console_game_of_life
 Game of Life in console coded in python
 
-Usage: python game_of_life.py -width <width> -height <height> -generations <generations> -delay <delay>
+Example Usage: 
+´´´
+python game_of_life.py -width width -height height -generations generations -delay delay
+´´´
